@@ -10,6 +10,11 @@ body {
 	margin-bottom: 400px;
 }
 
+@media(max-width:767px){
+	#logo {
+	margin-bottom: 200px;
+}
+}
 
 
 
